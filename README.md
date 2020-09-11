@@ -1,3 +1,3 @@
 # training
 
-In meinem "training" repository finden Sie Unterlagen zum Unterricht, hauptsächlich als jupyter notebooks.
+In meinem "training" repository finden Sie Unterlagen zum Unterricht und meinen Videos, hauptsächlich als jupyter notebooks.
