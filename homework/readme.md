@@ -1,1 +1,1 @@
-Hier finden Sie Aufgaben, die begleitend zum Unterricht bearbeitet werden sollen.
+Hier finden Sie alle Aufgaben, die begleitend zum Unterricht bearbeitet werden sollen.
